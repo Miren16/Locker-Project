@@ -1,7 +1,5 @@
 
 /*
-   Tijmen Van Der Beek
-   3/3/2021
    AldenLockerCode
 */
 #include <SoftwareSerial.h>
